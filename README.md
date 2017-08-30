@@ -1,2 +1,3 @@
 # hello-world
-第一个git仓储，跟着向导来做的
+第一个仓储项目
+xiaopanxiaopan
